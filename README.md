@@ -1,5 +1,5 @@
 # Resolución de ejercicios en Python
-Algunos ejercicios resueltos del curso de [Programación en Python](https://programacionpython.ecyt.unsam.edu.ar/material/) dictado por la [UNSAM](https://www.unsam.edu.ar).
+Algunos ejercicios resueltos del curso [Programación en Python](https://programacionpython.ecyt.unsam.edu.ar/material/) dictado por la [UNSAM](https://www.unsam.edu.ar).
 
 ### Temas que se pueden apreciar:
 - Simulaciones aleatorias con la librería random
